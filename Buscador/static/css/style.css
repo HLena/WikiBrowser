@@ -1,0 +1,32 @@
+
+.intro {
+    padding: 15%;
+    margin: 10%;
+    vertical-align: middle;
+    
+
+  }
+  .form-control{
+    width: 70%;
+    height: 5%;
+    border-radius: 3px;
+  }
+
+  .input-group.md-form.form-sm.form-1 input{
+    border: 1px solid #bdbdbd;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    }
+
+    .box_button{
+      width: 20%;
+      margin-left: 40% ;
+      padding: 10px;
+    }
+    
+
+  div.image {
+    content:url(../images/world.png);
+    /* padding-left:40%; */
+    padding: 0% 0% 5% 40%;
+  }​
